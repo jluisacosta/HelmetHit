@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CubeTown()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ init()
+comment3.params=
+comment3.target=void\ initgame()
+comment4.params=
+comment4.target=void\ checagameover()
+comment5.params=v1\ v2\ v3
+comment5.target=void\ mandasnake(int,\ int,\ int)
+numComments=6

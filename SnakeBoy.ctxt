@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SnakeBoy()
+comment1.params=d
+comment1.target=SnakeBoy(int)
+comment10.params=
+comment10.target=void\ matapink()
+comment11.params=
+comment11.target=void\ quitacascoahelmet()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ cae()
+comment4.params=
+comment4.target=void\ encuentraigual()
+comment5.params=
+comment5.target=boolean\ quedavulnerable()
+comment6.params=
+comment6.target=boolean\ getvul()
+comment7.params=
+comment7.target=void\ setpateado()
+comment8.params=d
+comment8.target=void\ setdirpateado(int)
+comment9.params=
+comment9.target=void\ setvul()
+numComments=12

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nomper\ ext\ numimg
+comment0.target=Personaje(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ existebloque()
+comment3.params=
+comment3.target=boolean\ existetuberia()
+comment4.params=
+comment4.target=void\ teletransportate()
+comment5.params=
+comment5.target=int\ getdireccion()
+numComments=6
